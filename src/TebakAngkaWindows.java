@@ -9,7 +9,8 @@ import javax.swing.JOptionPane;
  */
 /**
  *
- * @author user
+ * @BonySuwanda
+ * @JodiNoordiansyah
  */
 public class TebakAngkaWindows extends javax.swing.JFrame {
 
